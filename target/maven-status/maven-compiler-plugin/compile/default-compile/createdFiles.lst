@@ -1,0 +1,4 @@
+com\aws\config\WebInitializer.class
+com\aws\config\WebConfig.class
+com\aws\controller\FileController.class
+com\aws\model\FileInfo.class
